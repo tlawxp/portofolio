@@ -7,3 +7,7 @@
 ```bash
 $ git clone https://github.com/tlawxp/portofolio
 ```
+
+## Pengertian
+
+portofolio adalah kumpulan dokumen seseorang, kelompok, lembaga, organisasi, perusahaan dan sejenisnya, yang tujuannya adalah untuk mendokumentasikan kemajuan proses untuk mencapai tujuan yang telah ditetapkan.
